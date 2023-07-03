@@ -26,16 +26,15 @@ img {
     border: 3px solid #f26522; /* Рамка при наведении на рисунок курсора мыши */
   }
 
-
-
-
-
-
 .header__title {
   margin: 30px 0 10px 0;
   font-size: 32px;
   line-height: 1.2;
   font-family: "Helvetica Neue";
+}
+
+.Engineer {
+  color: #163026;
 }
 
 .header__subtitle {
